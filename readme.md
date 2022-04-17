@@ -35,5 +35,3 @@
 
 [![Linkedin: Fernando Unger](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandounger/)](https://www.linkedin.com/in/fernandounger/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-f70505?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fdasilvaunger@gmail.com)](mailto:fdasilvaunger@gmail.com)
-
-![Snake animation](https://github.com/fernandounger/fernandounger/blob/output/github-contribution-grid-snake.svg) -->
