@@ -1,15 +1,12 @@
-![](https://media.discordapp.net/attachments/938167899233857537/965359167885950976/bannerugr.png?width=977&height=293)
-
-
-
 # 🌎 Hello World!
 
 ![](https://komarev.com/ghpvc/?username=your-github-fernandounger&color=B06F0D)
 [![GitHub Fernando Unger]( https://img.shields.io/github/followers/fernandounger?label=follow&style=social)](https://github.com/fernandounger)
 
- - 🏙️ I'm from RJ, Brazil
+- 🏙️ I'm from RJ, Brazil
 - 📚 Web Development Student
 - 🎓 Studying Internet Computer Technician at Senac
+
 
 ### Technologies and tools I already use and am learning:
 
@@ -23,15 +20,8 @@
 ![Figma](https://img.shields.io/badge/FIGMA-9D56F7?style=for-the-badge&logo=git&logoColor=white)
 ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-
-### 💻 Workspace Spec
-
-![AMD](https://img.shields.io/badge/AMD-FX_6300-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![GT](https://img.shields.io/badge/NVIDIA-9800GT-GT?style=for-the-badge&logo=nvidia&logoColor=white)
-
-
 ### Contact me
-
 
 [![Linkedin: Fernando Unger](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandounger/)](https://www.linkedin.com/in/fernandounger/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-f70505?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fdasilvaunger@gmail.com)](mailto:fdasilvaunger@gmail.com)
+
