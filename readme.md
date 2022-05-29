@@ -1,28 +1,35 @@
-# 🌎 Hello World!
+![](https://komarev.com/ghpvc/?username=your-github-fernandounger&color=E11F84)
 
-![](https://komarev.com/ghpvc/?username=your-github-fernandounger&color=B06F0D)
-[![GitHub Fernando Unger]( https://img.shields.io/github/followers/fernandounger?label=follow&style=social)](https://github.com/fernandounger)
+![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=E11F84&size=25&lines=Hi👋🏻,+Welcome+to+my+Github+page;+I%27m+Fernando+Unger;Front-End+Developer)
 
-- 🏙️ I'm from RJ, Brazil
-- 📚 Web Development Student
-- 🎓 Studying Internet Computer Technician at Senac
+## 👨🏻‍💻 About me:
+    
+    - 🎓 Studying Computer Technician at Senac
+    - 👯 I’m looking to collaborate on Web Development Related Projects 
+    - 👨🏻‍💻 I am a tech enthusiast & a self learner.
+ 
+<details>
+<summary><b>Languages and Tools 🛠:</b></summary>
+  <br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-E11F84?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-E11F84?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-E11F84?style=for-the-badge&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-E11F84?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-E11F84?style=for-the-badge&logo=sass&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-E11F84?style=for-the-badge&logo=mysql&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E11F84?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-E11F84?style=for-the-badge&logo=git&logoColor=white)
+![HEROKU](https://img.shields.io/badge/Heroku-E11F84?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-### Technologies and tools I already use and am learning:
+</details>
+    <br>
+<details>
+    <summary> <b>📫 Contact me </b></summary>
+    <br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-C36291?style=for-the-badge&logo=sass&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-D96C13?style=for-the-badge&logo=mysql&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E94E31?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/FIGMA-9D56F7?style=for-the-badge&logo=git&logoColor=white)
-![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+[![Linkedin: Fernando Unger](https://img.shields.io/badge/-LINKEDIN-E11F84?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandounger/)](https://www.linkedin.com/in/fernandounger/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-E11F84?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fdasilvaunger@gmail.com)](mailto:fdasilvaunger@gmail.com)
 
-### Contact me
-
-[![Linkedin: Fernando Unger](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandounger/)](https://www.linkedin.com/in/fernandounger/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-f70505?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fdasilvaunger@gmail.com)](mailto:fdasilvaunger@gmail.com)
-
+</details>
