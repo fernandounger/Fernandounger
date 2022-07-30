@@ -20,7 +20,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-E11F84?style=for-the-badge&logo=mysql&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E11F84?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/FIGMA-E11F84?style=for-the-badge&logo=git&logoColor=white)
-![HEROKU](https://img.shields.io/badge/Heroku-E11F84?style=for-the-badge&logo=heroku&logoColor=white)
 
 
 </details>
