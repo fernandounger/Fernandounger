@@ -29,6 +29,5 @@
     <br/>
 
 [![Linkedin: Fernando Unger](https://img.shields.io/badge/-LINKEDIN-E11F84?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandounger/)](https://www.linkedin.com/in/fernandounger/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-E11F84?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fdasilvaunger@gmail.com)](mailto:fdasilvaunger@gmail.com)
 
 </details>
