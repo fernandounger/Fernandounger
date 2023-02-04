@@ -20,6 +20,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-E11F84?style=for-the-badge&logo=mysql&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E11F84?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/FIGMA-E11F84?style=for-the-badge&logo=git&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-E11F84?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-E11F84?style=for-the-badge&logo=Canva&logoColor=white)
 
 
 </details>
