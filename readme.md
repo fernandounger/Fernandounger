@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 About me:
     
-    - 🎓 Studying Computer Technician at Senac
+    - 🎓 Computer Technician
     - 👯 I’m looking to collaborate on Web Development Related Projects 
     - 👨🏻‍💻 I am a tech enthusiast & a self learner.
  
